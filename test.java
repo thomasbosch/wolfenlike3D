@@ -1,8 +1,8 @@
-class main{
+class test{
 
-public static void main(String[] args){
-	System.out.println("salut je teste si je peux compiler + push avec git bash");
-
-}
+	public static void main(String[] args){
+		System.out.println("salut je teste si je dddddd peux compiler + push avec git bash");
+		//slip
+	}
 
 }
